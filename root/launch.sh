@@ -1,6 +1,6 @@
 #!/bin/sh
 
-set -e
+#set -e
 
 # add debug
 [[ -n "$DEBUG" ]] && set -x
